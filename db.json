@@ -1,0 +1,110 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "women dress",
+            "email": "412.sitara@gmail.com",
+            "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6PTLm23s74GDTewfdcLQyew8NoyqyGfgYQ&usqp=CAU",
+            "price": "1000"
+        },
+        {
+            "id": 1,
+            "name": "shoe",
+            "email": "412.sitara@gmail.com",
+            "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTvfUzqzuJ2lOddhCOdJepkmXNYk5-ycmZw&usqp=CAU",
+            "price": "2000"
+        },
+        {
+            "id": 1,
+            "name": "bag",
+            "email": "412.sitara@gmail.com",
+            "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbEjim5-P1ZfTYu726Q-f7_maIhbu3gbGgJg&usqp=CAU",
+            "price": "4000"
+        },
+        {
+            "id": 1,
+            "name": "sandal",
+            "email": "412.sitara@gmail.com",
+            "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-hM-SRQpAEmCAdAj41I80L_A9wdlym-mcg&usqp=CAU",
+            "price": "3000"
+        },
+        {
+            "id": 1,
+            "name": "Watch",
+            "email": "412.sitara@gmail.com",
+            "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa2gRCeo0CkFfUkchdjWJwxRmka0MTwncSiDJNXO4msZPmrH9gqrex8hX3ng&usqp=CAc",
+            "price": "4000"
+        },
+        {
+            "id": 1,
+            "name": "jewellary",
+            "email": "412.sitara@gmail.com",
+            "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgkBT_G1bXwsWnDbUjv4gbK4j2iBpHccTVFA&usqp=CAU",
+            "price": "4000"
+        }
+    ],
+    "cart": [{
+            "product": {
+                "id": 1,
+                "name": "women dress",
+                "email": "412.sitara@gmail.com",
+                "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6PTLm23s74GDTewfdcLQyew8NoyqyGfgYQ&usqp=CAU",
+                "price": "1000"
+            },
+            "id": 1
+        },
+        {
+            "product": {
+                "id": 1,
+                "name": "shoe",
+                "email": "412.sitara@gmail.com",
+                "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTvfUzqzuJ2lOddhCOdJepkmXNYk5-ycmZw&usqp=CAU",
+                "price": "2000"
+            },
+            "id": 2
+        },
+        {
+            "product": {
+                "id": 1,
+                "name": "shoe",
+                "email": "412.sitara@gmail.com",
+                "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTvfUzqzuJ2lOddhCOdJepkmXNYk5-ycmZw&usqp=CAU",
+                "price": "2000"
+            },
+            "id": 3
+        },
+        {
+            "product": {
+                "id": 1,
+                "name": "women dress",
+                "email": "412.sitara@gmail.com",
+                "description": "Fabric : Polyster, fitting type : regular fit, DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6PTLm23s74GDTewfdcLQyew8NoyqyGfgYQ&usqp=CAU",
+                "price": "1000"
+            },
+            "id": 4
+        }
+    ],
+    "wishlist": [],
+    "posts": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}
